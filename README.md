@@ -1,57 +1,66 @@
-# 👋 Hi, I'm Ramanjeet Singh  
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://github.com/SpaceCodelab/SpaceCodelab/blob/main/assets/banner.png" alt="Ramanjeet Singh Banner" width="100%" />
+</p>
 
-🎯 **Artificial Intelligence & Machine Learning Enthusiast**  
-📍 India  
-
----
-
-### 👨‍💻 About Me  
-I’m a passionate developer exploring the intersection of **AI**, **data**, and **software engineering**.  
-My curiosity drives me to build intelligent systems, automate workflows, and craft clean, efficient code.  
-I believe in learning by building and sharing what I discover along the way.  
+<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Ramanjeet Singh</span></h1>
+<h3 align="center">🤖 Artificial Intelligence & Machine Learning Enthusiast from India 🇮🇳</h3>
 
 ---
 
-### 🧠 Interests  
-- Machine Learning & Deep Learning  
-- Computer Vision & Natural Language Processing  
-- Data Analytics & Predictive Modeling  
-- Cloud Computing & Automation  
-- Open-Source Collaboration  
+### 🧠 About Me  
+
+💡 I’m passionate about using **AI** and **machine learning** to solve real-world problems.  
+🧩 I love exploring new technologies and turning ideas into reality through code.  
+🌱 Currently learning **Generative AI**, **Cloud MLOps**, and **Advanced Deep Learning**.  
+💬 Ask me about anything related to **Python**, **AI/ML**, or **Data Science**.  
+🎯 Goal: Build impactful AI-driven applications that make life smarter and simpler.  
 
 ---
 
 ### 🛠️ Tech Stack  
 
-**Languages:**  
-Python • C++ • JavaScript • Shell  
-
-**Frameworks & Libraries:**  
-TensorFlow • PyTorch • Scikit-learn • OpenCV • Pandas • NumPy  
-
-**Tools & Platforms:**  
-Git • Linux • Docker • Jupyter • VS Code • Google Cloud Platform  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,linux,git,vscode,github,docker,tensorflow,pytorch,opencv,mysql" />
+</p>
 
 ---
 
 ### 📂 Featured Projects  
 
-🔹 **AI Cost Optimizer**  
-_Cloud-based system for automatic AWS/GCP cost analysis and optimization._  
-
-🔹 **Realtime Collaboration Tool**  
-_A lightweight web app for real-time collaborative text editing using WebSockets._  
-
-🔹 **Full-Stack Starter Template**  
-_A modular project setup for scalable frontend & backend development._  
+| 🧩 Project | 💡 Description |
+|-------------|----------------|
+| 🚀 **AI Cost Optimizer** | Cloud-based ML system for automatic cost analysis and optimization on AWS & GCP. |
+| 💬 **Realtime Collaboration Tool** | A live collaborative editor using WebSockets and Node.js. |
+| 🌐 **Full-Stack Starter Template** | Modular setup for scalable web development (React + Express). |
 
 ---
 
-### 📊 GitHub Analytics  
+### 📊 GitHub Stats  
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SpaceCodelab&show_icons=true&theme=calm&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceCodelab&layout=compact&theme=calm&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SpaceCodelab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceCodelab&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpaceCodelab&theme=tokyonight&hide_border=true" alt="Ramanjeet's Streak" />
+</p>
+
+---
+
+### 🧩 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SpaceCodelab&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SpaceCodelab&theme=onedark&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
@@ -59,16 +68,19 @@ _A modular project setup for scalable frontend & backend development._
 ### 🤝 Connect with Me  
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-> _"The best way to predict the future is to create it."_  
-> — **Peter Drucker**
+### ✨ Fun Fact  
 
----
+> _"The best way to predict the future is to create it."_ — **Peter Drucker**  
 
-<p align="center">✨ Crafted with passion by <b>Ramanjeet Singh (SpaceCodelab)</b> ✨</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SpaceCodelab/SpaceCodelab/main/assets/wave.svg" width="100%" />
+</p>
+
+<p align="center">🌟 Crafted with ❤️ by <b>Ramanjeet Singh (SpaceCodelab)</b> 🌟</p>
