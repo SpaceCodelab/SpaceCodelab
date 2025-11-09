@@ -1,7 +1,4 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://github.com/SpaceCodelab/SpaceCodelab/blob/main/assets/banner.png" alt="Ramanjeet Singh Banner" width="100%" />
-</p>
+
 
 <h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Ramanjeet Singh</span></h1>
 <h3 align="center">🤖 Artificial Intelligence & Machine Learning Enthusiast from India 🇮🇳</h3>
