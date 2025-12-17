@@ -72,12 +72,4 @@
 
 ---
 
-### ✨ Fun Fact  
-
-> _"The best way to predict the future is to create it."_ — **Peter Drucker**  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SpaceCodelab/SpaceCodelab/main/assets/wave.svg" width="100%" />
-</p>
-
 <p align="center">🌟 Crafted with ❤️ by <b>Ramanjeet Singh (SpaceCodelab)</b> 🌟</p>
