@@ -1,65 +1,110 @@
-# Ramanjeet Singh
-### AI & Machine Learning Engineer based in India 🇮🇳
+<div align="center">
 
-I am a developer focused on building impactful AI-driven applications, with a strong foundation in **Generative AI**, **Cloud MLOps**, and **Data Science**. Currently working on optimizing cloud costs via ML and exploring advanced deep learning architectures.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ramanjeet+Singh+👋;AI+%26+ML+Engineer;Cloud+Architecture+%7C+DevOps;Building+the+Future+with+Code" alt="Typing SVG" />
 
-- 🔭 **Working on:** Cloud-based ML systems & Realtime Collaboration tools
-- 🌱 **Learning:** Generative AI, MLOps, Advanced Deep Learning
-- 💬 **Ask me about:** Python, AI/ML, Data Science, and AWS/GCP
+  <p>
+    <a href="https://github.com/SpaceCodelab">
+      <img src="https://komarev.com/ghpvc/?username=SpaceCodelab&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    </a>
+  </p>
 
----
+  <p>
+    <em>Turning complex data into intelligent solutions. Focused on <b>Generative AI</b>, <b>MLOps</b>, and <b>Scalable Cloud Systems</b>.</em>
+  </p>
 
-### 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
   <br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-</p>
 
----
+  <p>
+    <a href="https://medium.com/@CosmicNerdd" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+    <a href="https://twitter.com/CosmicNerdd" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
+    <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-### 🚀 Featured Projects
+</div>
 
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **[Cost-Optimization-Analyzer](https://github.com/SpaceCodelab/Cost-Optimization-Analyzer)** | `Python` `Cloud` | Cloud-based ML system for automatic cost analysis and optimization on AWS & GCP. |
-| **[Realtime-Collaborative-Editor](https://github.com/SpaceCodelab/realtime-collaborative-editor)** | `TypeScript` `WebSockets` | A live collaborative editor allowing multiple users to share a workspace. |
-| **[Graph-Visualizer](https://github.com/SpaceCodelab/Graph-visualizer)** | `Python` `Algorithms` | A web utility to visualize graph algorithms and run benchmarks with visualizations. |
+<hr />
 
----
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=SpaceCodelab&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 
-### 📊 GitHub Activity
+<br>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SpaceCodelab&show_icons=true&theme=transparent&hide_border=true&title_color=007ec6&text_color=555&icon_color=007ec6" alt="Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpaceCodelab&theme=transparent&hide_border=true&title_color=007ec6&text_color=555&icon_color=007ec6&fire=EB4C2C&ring=EB4C2C" alt="Streak" height="160" />
-</p>
+<h3 align="center">🛠️ Arsenals & Technologies</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceCodelab&layout=compact&theme=transparent&hide_border=true&title_color=007ec6&text_color=555" alt="Languages" />
-</p>
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
----
+  <br/>
 
-### 🔗 Connect
-<p align="left">
-  <a href="https://medium.com/@CosmicNerdd">
-    <img src="https://img.shields.io/badge/Medium-Read_Articles-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://twitter.com/CosmicNerdd">
-    <img src="https://img.shields.io/badge/X-Follow_Me-000000?style=flat&logo=x&logoColor=white" alt="X" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=SpaceCodelab&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <h3>📊 Coding Activity</h3>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=SpaceCodelab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceCodelab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpaceCodelab&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
+</div>
+
+<br>
+
+<h3 align="center">🚀 Top Projects</h3>
+
+<div align="center">
+  <table>
+    <thead align="center">
+      <tr>
+        <th>Project</th>
+        <th>Stack</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/SpaceCodelab/Cost-Optimization-Analyzer"><b>💰 Cost Optimizer</b></a></td>
+        <td><code>Python</code> <code>AWS/GCP</code></td>
+        <td>Automated cloud cost analysis using Machine Learning.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/SpaceCodelab/realtime-collaborative-editor"><b>📝 Live Editor</b></a></td>
+        <td><code>TypeScript</code> <code>Sockets</code></td>
+        <td>Real-time collaborative code editor for teams.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<hr />
+
+<p align="center">
+  <i>"The best way to predict the future is to create it."</i>
 </p>
