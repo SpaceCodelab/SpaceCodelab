@@ -46,22 +46,6 @@
 
 ---
 
-### 🧩 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SpaceCodelab&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-### 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SpaceCodelab&theme=onedark&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
----
-
 ### 🤝 Connect with Me  
 
 <p align="center">
